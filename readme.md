@@ -50,4 +50,4 @@ challenge-03/
 └── readme.md
 ```
 
-Autor: TheDanilore
+By: TheDanilore
