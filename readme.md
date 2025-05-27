@@ -8,14 +8,46 @@
 - Use of OOP principles and patterns to help solve the problems when applicable.
 - Use of PHP.
 
-## Challenges
+## Challenges solved
 
 - [Find the point](https://github.com/medlinkla/challenlink/tree/master/challenge-01)
 - [Don't iterate](https://github.com/medlinkla/challenlink/tree/master/challenge-02)
 - [Spaghetti code](https://github.com/medlinkla/challenlink/tree/master/challenge-03)
 
+## Estructura del Proyecto
 
-## Once you are finished
+```
+challenge-03/
+├── bin/
+│   ├── kahlan 
+│   ├── kahlan.bat 
+├── spec/
+│   └── GildedRoseSpec.php
 
-- Upload your solutions to a public repository in GitHub or a similar service.
-- Share your repository link with us by email to erick@medlink.la
+├── src/
+│   ├── GildedRose.php
+│   ├── Interfaces/ 
+│   │   ├── ItemCategory.php 
+│   ├── Categories/
+│   │   ├── AgedBrie.php
+│   │   ├── BackstagePass.php
+│   │   ├── ConjuredItem.php
+│   │   ├── NormalItem.php
+│   │   ├── Sulfuras.php
+
+├── vendor/
+│   ├── composer/ 
+│   ├── kahlan/
+│   │   ├── kahlan/
+│   │   │   ├── bin/
+│   │   │   │   ├── kahlan
+│   │   │   ├── docs
+│   │   │   ├── ...
+│   ├── autoload.php 
+├── .gitignore
+├── composer.json
+├── composer.lock
+└── readme.md
+```
+
+Autor: TheDanilore
