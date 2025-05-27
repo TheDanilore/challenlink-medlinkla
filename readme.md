@@ -10,11 +10,11 @@
 
 ## Challenges solved
 
-- [Find the point](https://github.com/medlinkla/challenlink/tree/master/challenge-01)
-- [Don't iterate](https://github.com/medlinkla/challenlink/tree/master/challenge-02)
-- [Spaghetti code](https://github.com/medlinkla/challenlink/tree/master/challenge-03)
+- [Find the point](https://github.com/TheDanilore/challenlink-medlinkla/tree/main/challenge-01)
+- [Don't iterate](https://github.com/TheDanilore/challenlink-medlinkla/tree/main/challenge-02)
+- [Spaghetti code](https://github.com/TheDanilore/challenlink-medlinkla/tree/main/challenge-03)
 
-## Estructura del Proyecto
+## Project Structure
 
 ```
 challenge-03/
